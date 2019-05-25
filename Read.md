@@ -5,4 +5,5 @@ Olá teste arquivo
 
 
 
-Gostou do curso? Quer mais? tssdtsdtsdt
+Gostou do curso? Quer mais? tssdtsdtsdt 
+adicionando linha nova, e dando um git diff para verificar antes de comitar
